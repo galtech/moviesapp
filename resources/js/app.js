@@ -7,7 +7,7 @@
     import Movies from './views/Movies'
 
     const router = new VueRouter({
-        mode: 'history',
+//        mode: 'history',
         routes: [
             {
                 path: '/movies',

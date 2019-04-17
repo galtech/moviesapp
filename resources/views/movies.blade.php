@@ -13,7 +13,7 @@
         <div id="app"> <!-- start of Vue app -->
             <app></app>
             
-            <!-- TODO finish enabling Laravel/Vue integration. iFrame is a placeholder until then -->
+            <!-- TODO finish enabling Laravel/Vue integration. iFrame is a placeholder until then. Not my preferred approach -->
             <iframe width="600" height="800" style="border:none;" src="http://movies.heylinprojects.com/themovies"></iframe> 
 
         </div> <!-- end of Vue app -->
