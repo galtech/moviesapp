@@ -1,5 +1,5 @@
 
 <template>
-    <router-link :to="{name: 'movies'}"></router-link>
-    
+    <router-link :to="{name: 'main'}"></router-link>
+
 </template>
