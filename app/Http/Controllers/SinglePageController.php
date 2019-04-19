@@ -10,5 +10,8 @@ class SinglePageController extends Controller
 {
     function index(){
         return view('movies');
+//        return response() -> json([
+//            'movies' => movies,
+//        ], 200);
     }
 }
